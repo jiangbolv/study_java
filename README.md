@@ -3,11 +3,15 @@
 
 ## 1. 控制台五子棋
 
-   five_in_a_row
+   five_in_a_row eclipse 编写
 ## 2. 图片浏览器
 
-  Picture_viewer
+  Picture_viewer eclipse 编写
   
 ## 3. 桌面弹球游戏
 
-BallGame
+BallGame eclipse编写
+
+## 4. 俄罗斯方块
+
+RusiaTetris 这个程序是使用IntelliJ Idea编写的，更改了原作者出现的一个小问题，可以完整的实现俄罗斯方块的基本功能！
